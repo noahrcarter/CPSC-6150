@@ -4,6 +4,8 @@ text fields. Additionally, simple state management is seen by tapping anywhere o
 not a textfield or button to change the background color. The text color will change 
 accordingly with the background color for readability and overall polish.
 
+demo: https://www.loom.com/share/c776a10df2524e4cb02966040749bd91 
+
 Color Palette <background color, text color>:
 [
  (lightBlue[100], black), 
@@ -34,4 +36,5 @@ Sample Inputs & Test Cases:
    expected BMI = n/a
    error message should be shown
 5. (background color test)
+
    click on any open space as many times as you please

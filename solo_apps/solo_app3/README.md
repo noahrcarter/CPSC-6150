@@ -18,4 +18,5 @@ sending requests to the API and running the app
 
 
 loom demo: https://www.loom.com/share/7cdb70564da341609b5ec41330b64844
-Github/Source Code: 
+
+Github/Source Code: https://github.com/noahrcarter/CPSC-6150/tree/main/solo_apps/solo_app3
